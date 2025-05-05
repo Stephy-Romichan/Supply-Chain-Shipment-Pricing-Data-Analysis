@@ -7,11 +7,6 @@ This project explores global shipment data to extract insights through data clea
 
 - **Course**: IE6600 Computation and Visualization for Analytics  
 - **Semester**: Spring 2025  
-- **Instructor**: Prof. Sivarit Sultornsanee  
-- **Team Members**:
-  - Stephy Romichan
-  - Gagan Yadav
-  - Meghana Rao  
 
 ## 📦 Dataset
 
